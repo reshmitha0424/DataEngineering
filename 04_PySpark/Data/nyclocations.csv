@@ -1,0 +1,301 @@
+PUlocationID,location,street,zip_code
+1,Riverdale,Jamaica Avenue,11432
+2,Brooklyn,Madison Avenue,10010
+3,Bushwick,Lexington Avenue,10022
+4,Jamaica,Fulton Street,11238
+5,Williamsburg,Queens Boulevard,11373
+6,Upper West Side,Roosevelt Avenue,11368
+7,Rego Park,Hylan Boulevard,10305
+8,Jamaica,Bedford Avenue,11211
+9,Manhattan,Jamaica Avenue,11432
+10,DUMBO,Park Avenue,10016
+11,Forest Hills,Park Avenue,10016
+12,Staten Island,Queens Boulevard,11373
+13,Coney Island,Queens Boulevard,11373
+14,Upper East Side,Jamaica Avenue,11432
+15,Brooklyn,Houston Street,10012
+16,Tribeca,Broadway,10002
+17,Red Hook,Wall Street,10005
+18,Tribeca,Canal Street,10013
+19,Tribeca,Roosevelt Avenue,11368
+20,Harlem,Atlantic Avenue,11217
+21,Flushing,Madison Avenue,10010
+22,SoHo,Fordham Road,10458
+23,Greenwich Village,Park Avenue,10016
+24,Staten Island,Queens Boulevard,11373
+25,Greenwich Village,Delancey Street,10002
+26,Long Island City,5th Avenue,10001
+27,Greenwich Village,Fordham Road,10458
+28,Upper West Side,Park Avenue,10016
+29,Red Hook,5th Avenue,10001
+30,Red Hook,Flatbush Avenue,11201
+31,Upper West Side,Bedford Avenue,11211
+32,Rego Park,Fulton Street,11238
+33,Manhattan,Grand Concourse,10451
+34,Riverdale,Canal Street,10013
+35,Long Island City,Broadway,10002
+36,Greenwich Village,Canal Street,10013
+37,Jackson Heights,Delancey Street,10002
+38,Mott Haven,Fulton Street,11238
+39,Brooklyn,Broadway,10002
+40,Tribeca,5th Avenue,10001
+41,Riverdale,Grand Concourse,10451
+42,Harlem,Lexington Avenue,10022
+43,Upper West Side,Hylan Boulevard,10305
+44,Crown Heights,Madison Avenue,10010
+45,Riverdale,Lexington Avenue,10022
+46,Flushing,Houston Street,10012
+47,Williamsburg,Flatbush Avenue,11201
+48,Mott Haven,Roosevelt Avenue,11368
+49,Crown Heights,Canal Street,10013
+50,Coney Island,Bedford Avenue,11211
+51,Bedford-Stuyvesant,Houston Street,10012
+52,Astoria,Grand Concourse,10451
+53,Upper West Side,Atlantic Avenue,11217
+54,Rego Park,Roosevelt Avenue,11368
+55,Brooklyn,Grand Concourse,10451
+56,Manhattan,Houston Street,10012
+57,Queens,Wall Street,10005
+58,Financial District,Madison Avenue,10010
+59,Upper East Side,Northern Boulevard,11372
+60,Financial District,Madison Avenue,10010
+61,Staten Island,Flatbush Avenue,11201
+62,Riverdale,Park Avenue,10016
+63,Staten Island,Grand Concourse,10451
+64,Williamsburg,Fordham Road,10458
+65,Harlem,Lexington Avenue,10022
+66,Manhattan,Wall Street,10005
+67,Chelsea,Park Avenue,10016
+68,Coney Island,Bedford Avenue,11211
+69,Staten Island,Fordham Road,10458
+70,Jamaica,Flatbush Avenue,11201
+71,Long Island City,Houston Street,10012
+72,Greenwich Village,Grand Concourse,10451
+73,Staten Island,Wall Street,10005
+74,Astoria,Flatbush Avenue,11201
+75,DUMBO,Jamaica Avenue,11432
+76,Bedford-Stuyvesant,Flatbush Avenue,11201
+77,Financial District,Bedford Avenue,11211
+78,Astoria,Northern Boulevard,11372
+79,Flushing,Northern Boulevard,11372
+80,Brooklyn,Hylan Boulevard,10305
+81,Upper West Side,Fulton Street,11238
+82,Upper West Side,Grand Concourse,10451
+83,Brooklyn,Atlantic Avenue,11217
+84,Riverdale,Hylan Boulevard,10305
+85,Upper West Side,Queens Boulevard,11373
+86,Greenwich Village,Broadway,10002
+87,Greenwich Village,Queens Boulevard,11373
+88,Greenwich Village,Grand Concourse,10451
+89,Jackson Heights,Grand Concourse,10451
+90,Flushing,Hylan Boulevard,10305
+91,Bedford-Stuyvesant,5th Avenue,10001
+92,Flushing,Park Avenue,10016
+93,Crown Heights,Jamaica Avenue,11432
+94,Greenwich Village,Grand Concourse,10451
+95,Tribeca,Flatbush Avenue,11201
+96,Manhattan,Houston Street,10012
+97,Staten Island,Northern Boulevard,11372
+98,Greenwich Village,Hylan Boulevard,10305
+99,DUMBO,Jamaica Avenue,11432
+100,Mott Haven,Hylan Boulevard,10305
+101,Jackson Heights,Canal Street,10013
+102,Staten Island,5th Avenue,10001
+103,Manhattan,Grand Concourse,10451
+104,Bedford-Stuyvesant,Hylan Boulevard,10305
+105,Jamaica,Park Avenue,10016
+106,Long Island City,Grand Concourse,10451
+107,Long Island City,Broadway,10002
+108,Bushwick,Delancey Street,10002
+109,Forest Hills,Roosevelt Avenue,11368
+110,Astoria,Delancey Street,10002
+111,Manhattan,5th Avenue,10001
+112,Astoria,Bedford Avenue,11211
+113,Crown Heights,Bedford Avenue,11211
+114,Rego Park,5th Avenue,10001
+115,SoHo,Fordham Road,10458
+116,Riverdale,Fulton Street,11238
+117,Rego Park,Broadway,10002
+118,Riverdale,Fulton Street,11238
+119,Forest Hills,Hylan Boulevard,10305
+120,Upper East Side,Houston Street,10012
+121,Bedford-Stuyvesant,Bedford Avenue,11211
+122,Astoria,Houston Street,10012
+123,Bronx,Bedford Avenue,11211
+124,Crown Heights,Flatbush Avenue,11201
+125,Red Hook,Wall Street,10005
+126,Coney Island,Northern Boulevard,11372
+127,Greenwich Village,5th Avenue,10001
+128,Tribeca,Roosevelt Avenue,11368
+129,Astoria,Grand Concourse,10451
+130,Bedford-Stuyvesant,Delancey Street,10002
+131,Williamsburg,Jamaica Avenue,11432
+132,Upper West Side,Flatbush Avenue,11201
+133,Greenwich Village,Hylan Boulevard,10305
+134,Williamsburg,Roosevelt Avenue,11368
+135,DUMBO,Queens Boulevard,11373
+136,Mott Haven,Roosevelt Avenue,11368
+137,Coney Island,Houston Street,10012
+138,Riverdale,5th Avenue,10001
+139,Park Slope,Wall Street,10005
+140,Park Slope,Fulton Street,11238
+141,Manhattan,Atlantic Avenue,11217
+142,Rego Park,Queens Boulevard,11373
+143,Bronx,Lexington Avenue,10022
+144,Jackson Heights,Bedford Avenue,11211
+145,Park Slope,Jamaica Avenue,11432
+146,Coney Island,Broadway,10002
+147,Greenwich Village,Atlantic Avenue,11217
+148,Red Hook,Jamaica Avenue,11432
+149,Park Slope,Delancey Street,10002
+150,Flushing,Fordham Road,10458
+151,Flushing,Lexington Avenue,10022
+152,Coney Island,Broadway,10002
+153,Rego Park,Atlantic Avenue,11217
+154,Park Slope,Broadway,10002
+155,Tribeca,Madison Avenue,10010
+156,Jamaica,Houston Street,10012
+157,Staten Island,Queens Boulevard,11373
+158,Forest Hills,Wall Street,10005
+159,Upper West Side,Queens Boulevard,11373
+160,Astoria,Canal Street,10013
+161,Bedford-Stuyvesant,Northern Boulevard,11372
+162,Red Hook,Wall Street,10005
+163,Queens,Atlantic Avenue,11217
+164,Brooklyn,Jamaica Avenue,11432
+165,Williamsburg,Grand Concourse,10451
+166,Financial District,Wall Street,10005
+167,Bushwick,Houston Street,10012
+168,Bushwick,Grand Concourse,10451
+169,Williamsburg,Northern Boulevard,11372
+170,Park Slope,Delancey Street,10002
+171,Crown Heights,Bedford Avenue,11211
+172,Astoria,Fulton Street,11238
+173,Williamsburg,Bedford Avenue,11211
+174,Jamaica,Hylan Boulevard,10305
+175,Mott Haven,Flatbush Avenue,11201
+176,Manhattan,5th Avenue,10001
+177,Williamsburg,Houston Street,10012
+178,Upper East Side,Hylan Boulevard,10305
+179,Astoria,Fordham Road,10458
+180,Tribeca,Bedford Avenue,11211
+181,Flushing,Roosevelt Avenue,11368
+182,Brooklyn,Park Avenue,10016
+183,Crown Heights,Flatbush Avenue,11201
+184,Upper East Side,Queens Boulevard,11373
+185,Chelsea,Fulton Street,11238
+186,Rego Park,Hylan Boulevard,10305
+187,Queens,Canal Street,10013
+188,DUMBO,Fordham Road,10458
+189,Greenwich Village,Madison Avenue,10010
+190,Harlem,Atlantic Avenue,11217
+191,DUMBO,Northern Boulevard,11372
+192,Red Hook,Madison Avenue,10010
+193,Park Slope,Grand Concourse,10451
+194,Long Island City,Grand Concourse,10451
+195,Flushing,Flatbush Avenue,11201
+196,Park Slope,Northern Boulevard,11372
+197,SoHo,Park Avenue,10016
+198,Forest Hills,Delancey Street,10002
+199,Astoria,Park Avenue,10016
+200,Park Slope,Canal Street,10013
+201,Bronx,Houston Street,10012
+202,Staten Island,Lexington Avenue,10022
+203,Manhattan,Northern Boulevard,11372
+204,Brooklyn,Roosevelt Avenue,11368
+205,Rego Park,Jamaica Avenue,11432
+206,Upper West Side,Queens Boulevard,11373
+207,Park Slope,Park Avenue,10016
+208,Astoria,Park Avenue,10016
+209,Bronx,Delancey Street,10002
+210,Forest Hills,Jamaica Avenue,11432
+211,Coney Island,5th Avenue,10001
+212,Harlem,Madison Avenue,10010
+213,Red Hook,Canal Street,10013
+214,Park Slope,Canal Street,10013
+215,Flushing,Atlantic Avenue,11217
+216,Manhattan,Broadway,10002
+217,Jackson Heights,Grand Concourse,10451
+218,Flushing,5th Avenue,10001
+219,Upper West Side,Lexington Avenue,10022
+220,Forest Hills,Wall Street,10005
+221,Forest Hills,Wall Street,10005
+222,Crown Heights,Madison Avenue,10010
+223,Greenwich Village,Northern Boulevard,11372
+224,Financial District,Flatbush Avenue,11201
+225,Riverdale,Northern Boulevard,11372
+226,Williamsburg,Lexington Avenue,10022
+227,Financial District,Fulton Street,11238
+228,Riverdale,Park Avenue,10016
+229,Upper East Side,Northern Boulevard,11372
+230,Bedford-Stuyvesant,Houston Street,10012
+231,SoHo,Madison Avenue,10010
+232,Flushing,Canal Street,10013
+233,Jackson Heights,Madison Avenue,10010
+234,Harlem,Delancey Street,10002
+235,Crown Heights,Lexington Avenue,10022
+236,Rego Park,Wall Street,10005
+237,Manhattan,Delancey Street,10002
+238,Flushing,Madison Avenue,10010
+239,Jackson Heights,Jamaica Avenue,11432
+240,Chelsea,Park Avenue,10016
+241,Riverdale,Jamaica Avenue,11432
+242,Jackson Heights,Queens Boulevard,11373
+243,Coney Island,Lexington Avenue,10022
+244,Harlem,Lexington Avenue,10022
+245,Bedford-Stuyvesant,5th Avenue,10001
+246,Mott Haven,Madison Avenue,10010
+247,DUMBO,Canal Street,10013
+248,Manhattan,Roosevelt Avenue,11368
+249,Tribeca,Jamaica Avenue,11432
+250,SoHo,Northern Boulevard,11372
+251,Coney Island,Wall Street,10005
+252,Flushing,Jamaica Avenue,11432
+253,Queens,Queens Boulevard,11373
+254,Flushing,Canal Street,10013
+255,Queens,Hylan Boulevard,10305
+256,Queens,Northern Boulevard,11372
+257,Manhattan,Houston Street,10012
+258,Bronx,Northern Boulevard,11372
+259,Bushwick,Atlantic Avenue,11217
+260,Park Slope,Broadway,10002
+261,Park Slope,Northern Boulevard,11372
+262,Flushing,Jamaica Avenue,11432
+263,Mott Haven,Jamaica Avenue,11432
+264,Rego Park,Grand Concourse,10451
+265,Astoria,Atlantic Avenue,11217
+266,Chelsea,Bedford Avenue,11211
+267,Crown Heights,Roosevelt Avenue,11368
+268,Greenwich Village,Flatbush Avenue,11201
+269,Flushing,Roosevelt Avenue,11368
+270,Crown Heights,Madison Avenue,10010
+271,Staten Island,Houston Street,10012
+272,Flushing,Hylan Boulevard,10305
+273,Rego Park,Wall Street,10005
+274,Jackson Heights,Hylan Boulevard,10305
+275,Park Slope,Fordham Road,10458
+276,Bushwick,Wall Street,10005
+277,SoHo,Canal Street,10013
+278,Upper East Side,Atlantic Avenue,11217
+279,Upper East Side,Fordham Road,10458
+280,DUMBO,Flatbush Avenue,11201
+281,Park Slope,Queens Boulevard,11373
+282,Red Hook,Houston Street,10012
+283,Park Slope,Flatbush Avenue,11201
+284,Greenwich Village,Bedford Avenue,11211
+285,Astoria,Park Avenue,10016
+286,Greenwich Village,Hylan Boulevard,10305
+287,Red Hook,Hylan Boulevard,10305
+288,Rego Park,Fordham Road,10458
+289,Bronx,Delancey Street,10002
+290,Jackson Heights,Flatbush Avenue,11201
+291,Riverdale,Queens Boulevard,11373
+292,Flushing,Park Avenue,10016
+293,Bedford-Stuyvesant,Wall Street,10005
+294,Greenwich Village,Fordham Road,10458
+295,Greenwich Village,Park Avenue,10016
+296,Williamsburg,Fordham Road,10458
+297,Red Hook,Broadway,10002
+298,Bedford-Stuyvesant,Roosevelt Avenue,11368
+299,Brooklyn,Grand Concourse,10451
+300,Red Hook,Lexington Avenue,10022
